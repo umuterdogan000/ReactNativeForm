@@ -4,5 +4,9 @@ React native'e giriş amaçlı basit seviye form uygulaması
 
 
 
-https://github.com/umuterdogan000/ReactNativeForm/assets/86818236/80818661-a1ef-413b-b6a8-a03349eef8b6
+
+
+
+https://github.com/umuterdogan000/ReactNativeForm/assets/86818236/0e833b1b-1d0e-41fb-8d68-d08de5900339
+
 
